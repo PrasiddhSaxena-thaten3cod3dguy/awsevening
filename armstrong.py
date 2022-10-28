@@ -13,3 +13,7 @@ if valuetobechecked == x:
     print("ArmStrong's Number")
 else:
     print("Nope")
+
+
+
+#arulbroisagoodboy
