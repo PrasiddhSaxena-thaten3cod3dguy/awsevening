@@ -1,19 +1,18 @@
-def sumofnumbers(hussain):
+def sumofnumbers(arul):
     sum=0
-    while (hussain > 0):
-        rem= hussain % 10
-        sum = sum + (rem ** 3)
-        hussain = hussain // 10
+    while (arul > 0):
+        rem= arul % 10
+        sum = sum + (rem ** value_length)
+        arul = arul // 10
     return sum
 
-valuetobechecked=153
+valuetobechecked=input("enter the number: ")
+#to check the multi digit numbers
+value_length=len(valuetobechecked) 
+valuetobechecked=int(valuetobechecked)
 x=sumofnumbers(valuetobechecked)
 
 if valuetobechecked == x:
     print("ArmStrong's Number")
 else:
     print("Nope")
-
-
-
-#arulbroisagoodboy
