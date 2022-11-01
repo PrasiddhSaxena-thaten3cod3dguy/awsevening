@@ -10,7 +10,7 @@ else:
 '''
 a=1
 b=11
-c=3
+c=35
 
 if a>b:
     print("a is bigger")

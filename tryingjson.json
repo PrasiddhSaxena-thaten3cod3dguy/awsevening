@@ -1,6 +1,13 @@
 {
-    "Lohit": 1,
-    "Stephen": 2,
-    "manvitha": 8,
-    "Ankita": 9
+    "Aruljothi": 1,
+    "HussainBasha": 2.5,
+    "Vishal": [
+        "Gupta",
+        21,
+        "Male"
+    ],
+    "Prasiddh": {
+        "Surname": "Saxena",
+        "Profession": "Cyber Crime Investigation"
+    }
 }
