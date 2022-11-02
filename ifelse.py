@@ -1,5 +1,5 @@
 num1=90
-num2=80
+num2=800
 
 '''
 Syntax :- 
